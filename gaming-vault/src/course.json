@@ -1,0 +1,45 @@
+{
+    "courses": [
+      {
+        "name": "Introduction to Computer Science (CS50)",
+        "url": "https://cs50.harvard.edu/x/2024/images/cs50x.webp"
+      },
+      {
+        "name": "Data Structures and Algorithms",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Data_Structure_Algorithms.jpg/800px-Data_Structure_Algorithms.jpg"
+      },
+      {
+        "name": "Machine Learning by Stanford University",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Stanford_University_seal_2003.svg/1200px-Stanford_University_seal_2003.svg.png"
+      },
+      {
+        "name": "Web Development Bootcamp",
+        "url": "https://d33wubrfki0l68.cloudfront.net/51a96fdc77cd813bcfba9c289bdf7333eb74a9ef/4fd2c/images/frontend-web-development-certification.svg"
+      },
+      {
+        "name": "Artificial Intelligence for Everyone",
+        "url": "https://cdn.jsdelivr.net/gh/Azure-Student-Community/az-learn-pics/AI.jpg"
+      },
+      {
+        "name": "Deep Learning Specialization",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Deep_learning_class_neural_network.svg/1024px-Deep_learning_class_neural_network.svg.png"
+      },
+      {
+        "name": "Cybersecurity Essentials",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Cybersecurity_Fundamentals.png"
+      },
+      {
+        "name": "Operating Systems and You",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Operating_system.svg/1200px-Operating_system.svg.png"
+      },
+      {
+        "name": "Computer Networks",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Network_diagram.jpg/800px-Network_diagram.jpg"
+      },
+      {
+        "name": "Introduction to Databases",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Relational_Database_Model.svg/800px-Relational_Database_Model.svg.png"
+      }
+    ]
+  }
+  
